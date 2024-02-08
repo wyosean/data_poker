@@ -10,7 +10,7 @@
 以下是平台定义的AI能力的接口： 
 
 入参：
-TableInfoParam.java 
+TableInfoParam :  https://github.com/wyosean/data_poker/blob/main/interface/TableInfoParam.java
 
 返回值：
-AiResult.java
+AiResult : https://github.com/wyosean/data_poker/blob/main/interface/TableInfoParam.java
