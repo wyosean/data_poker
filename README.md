@@ -1,4 +1,7 @@
 # Pokernote 德州扑克AI平台，招募AI算法合伙人
+
+2024.03.19 持续招募中…… ，有意者请联系 v : pknaaa，q：2868676938 ，备注：AI合伙人 ；
+
 目前已有Pokernote软件在线上运营，网站地址：pokernote.co ，目前只支持数据HUD功能，如下图；
 ![image](https://github.com/wyosean/data_poker/assets/9973784/22686241-206f-4b32-9b4e-ce237098b228)
 
