@@ -1,8 +1,8 @@
-# Pokernote 德州扑克，找懂算法的一起学习交流
+# 德州扑克，找懂算法的一起学习交流
 
 2025.03.19  ，懂算法的请联系 v : pknaaa，q：2868676938  ；
 
-目前已有Pokernote demo ，目前支持数据HUD功能，如下图；
+目前已有 demo ，目前支持数据HUD功能，如下图；
 ![image](https://github.com/wyosean/data_poker/assets/9973784/22686241-206f-4b32-9b4e-ce237098b228)
 
 
